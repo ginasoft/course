@@ -1,2 +1,2 @@
-# course
-testing
+# Git course
+Testing
